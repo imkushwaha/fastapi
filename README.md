@@ -15,3 +15,7 @@ venv\Scripts\activae.bat
 uvicorn main:app --reload
 ```
 
+## Crud
+
+
+

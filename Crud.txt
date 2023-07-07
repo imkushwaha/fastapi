@@ -1,0 +1,13 @@
+## Create  ---> POST    /posts     @app.post("/posts)
+
+## Read   ---> GET   /posts/:id   @app.get("/posts/{id}")
+
+## Read  ---> GET  /posts    @app.get("/posts")
+
+## Update  ---> PUT/PATH   /posts/:id  @app.get("/posts/{id}")
+
+# PUT: When we provide all the fiels whether we are updating one or all
+# PATCH: When we provide only that field which we want to update.
+
+## Delete   --->  DELETE    /posts/:id  @app.delete("/posts/{id}")
+
