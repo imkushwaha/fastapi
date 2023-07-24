@@ -1,0 +1,37 @@
+## What is a Database
+- Database is a collection of organized data that can be easily accessed and managed
+
+## DBMS
+- We don't work or interact with databases directly.
+- Instead we make use of a software referred to as a Database Management Systems(DBMS)
+
+## Popular DBMS
+
+### Relational
+   - MYSQL
+   - POSTGRESQL
+   - ORACLE
+   - SQL server
+
+### NoSQL
+   - MongoDB
+   - DynamoDB
+   - ORACLE
+   - SQL SERVER
+
+## Relational Database & SQL
+
+- Structured Query Language(SQL) - Language used to communicate with DBMS
+
+## Postgres
+
+- Each instance of postgres can be carved into multiple separate databases
+
+- By default every Postgres installation comes with one database already created called "postgres"
+- This is important because Postgres requires you to specify the name of a database to make a connection. So there needs to always be one database
+
+## Tables
+- A table represents a subject or event in an application
+- A table is made up of columns and rows
+- Each Column represents a different attribute
+- Each row represents a different entry in the table

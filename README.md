@@ -13,6 +13,8 @@ venv\Scripts\activae.bat
 
 ```bash
 uvicorn main:app --reload
+uvicorn app.main:app --reload   # main is in inside app dir, another app is out FastAPI app name
+
 ```
 
 ## Crud
